@@ -1,4 +1,4 @@
-from file_transferrer import App
+from file_transferrer.app import App
 
 
 

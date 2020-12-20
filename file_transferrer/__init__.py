@@ -1,1 +1,0 @@
-from file_transferrer.app import App
